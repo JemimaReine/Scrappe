@@ -1,7 +1,8 @@
 # Scrappe
 
 Le but de l'exercice est de scrapper les donnees sur la page de jumia et ensuite connecté une base de données de notre choix pour recuper ses données.
-Pour ce fait, nous devons creer une base de donnees avec :
+Pour ce fait, nous devons creer une base de donnees avec les commandes ( Personnellement j'utilise SqlServer) :
+
 CREATE DATABASE dbScrappe
 ensuite on cree les tables avec:
 
